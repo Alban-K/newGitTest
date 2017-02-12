@@ -1,5 +1,5 @@
 first line - second day - update 1 
-second line
+second line - creating conflict 1
 line added from repository B
 .
 .
